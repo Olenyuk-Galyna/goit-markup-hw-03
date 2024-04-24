@@ -62,7 +62,7 @@ body {
     display: flex;
     align-items: center;
 }
-.page-logo .logo-header {
+.logo-header {
     margin-right: 76px;
 }
 .page-logo {
@@ -120,7 +120,6 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-
 }
 .page-hero-container .hero-title {
     max-width: 496px;
@@ -142,6 +141,7 @@ body {
     align-items: center;
 }
 .hero .btn {
+    min-width: 169px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -264,7 +264,7 @@ li.team-list-item {
 .portfolio .card-project {
     padding: 32px 16px 32px 16px;
     gap: 8px;
-    border: 1px solid#F4F4FD;
+    border: 1px solid#e7e9fc;
     border-top: none;
 }
 .portfolio-list-fullname {
