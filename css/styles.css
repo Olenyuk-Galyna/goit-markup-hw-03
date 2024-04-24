@@ -49,11 +49,6 @@ body {
     line-height: 1.5;
     background-color: #FFFFFF;
 }
-.section {
-    padding-top: 120px;
-    padding-bottom: 120px;
-}
-
 .container {
     width: 1158px;
     padding: 0 15px;
